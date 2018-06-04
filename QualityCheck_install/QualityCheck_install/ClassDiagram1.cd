@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="QualityCheck_install.MainForm">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="buttonCreate" Hidden="true" />
+      <Field Name="buttonReady" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="textBoxHost" Hidden="true" />
+      <Field Name="textBoxLogin" Hidden="true" />
+      <Field Name="textBoxPassword" Hidden="true" />
+      <Field Name="textBoxPort" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAACAAQBAAAACAEBACAAAAFIAAgQQAAQAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QualityCheck_install.LoadForm">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="buttonReady" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="progressBar1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAQACAAABAAAACAAAACAAABEIAAgAAAAAAAAAA=</HashCode>
+      <FileName>LoadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

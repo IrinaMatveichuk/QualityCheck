@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\bin\Debug\QualityCheck_install.exe.config
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\bin\Debug\QualityCheck_install.exe
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\bin\Debug\QualityCheck_install.pdb
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.Form1.resources
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.Form2.resources
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.Properties.Resources.resources
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.exe
+C:\Users\User\source\repos\QualityCheck_install\QualityCheck_install\obj\Debug\QualityCheck_install.pdb
